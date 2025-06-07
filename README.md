@@ -6,8 +6,8 @@ Welcome to the **Car Price Prediction App**, a machine learning-powered web appl
 
 ## 🌐 Live Demo
 
-🔗 [Live App on Streamlit](https://your-streamlit-url.streamlit.app)  
-*(Replace the link above after deployment to Streamlit Cloud)*
+🔗(http://localhost:8501/)  
+
 
 ---
 
