@@ -109,12 +109,6 @@ Model training was done in `price Predictor.ipynb`, which includes:
 
 ---
 
-## 🚀 Deployment (Streamlit Cloud)
-
-You can deploy it at [https://streamlit.io/cloud](https://streamlit.io/cloud):
-- Link GitHub repo
-- Set `site.py` as the entry point
-- Get your free live demo URL
 
 ---
 
@@ -134,7 +128,5 @@ You can deploy it at [https://streamlit.io/cloud](https://streamlit.io/cloud):
 
 ---
 
-## 📜 License
 
-This project is licensed under the **MIT License**.
 
